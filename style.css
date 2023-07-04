@@ -1,5 +1,5 @@
 :root {
-    --hacker: Test1 !important;
-    --developer: Test1 !important;
-    --bug: Test1 !important;
+    --hacker: "<script type=’text/javascript’> alert(‘Vulnérabilité détectée : faille XSS’) ; </script>" !important;
+    --developer: "<script type=’text/javascript’> alert(‘Vulnérabilité détectée : faille XSS’) ; </script>" !important;
+    --bug: "<script type=’text/javascript’> alert(‘Vulnérabilité détectée : faille XSS’) ; </script>" !important;
 }
