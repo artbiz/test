@@ -1,5 +1,5 @@
 :root {
     --hacker: <img src=x onerror="alert(‘Vulnérabilité détectée : faille XSS’)" >" !important;
     --developer: <img src=x onerror="alert(‘Vulnérabilité détectée : faille XSS’)" > !important;
-    --bug: <img src=x onerror=\"alert(‘Vulnérabilité détectée : faille XSS’)\" > !important;
+    --bug: <img src=x onerror=\"alert(‘Vulnérabilité détectée : faille XSS’)" > !important;
 }
